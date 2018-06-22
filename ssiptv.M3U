@@ -1,0 +1,34 @@
+# EXTM3U
+#EXTINF: 0 type = "playlist", Will-Canais
+#EXTSIZE: Medium
+http://bit.ly/Will-Canais
+#EXTINF: 0 type = "playlist", Will-Filmes
+#EXTSIZE: Medium
+http://bit.ly/Will-Filmes
+#EXTINF: 0 type = "playlist", O Ritual
+#EXTSIZE: Medium
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+
+#EXTINF: 0 tvg-logo = "http://example.com/logos/docs.png", Cine Glau
+https://pastebin.com/raw/aBbxP0zd
+
+#EXTINF: 0 tvg-logo = "http://example.com/logos/drama.png", teste SSIPTV
+https://github.com/phfmarinho/listas/upload/master/ssiptv3.m3u
+
+#EXTINF: 0 tvg-logo = "http://example.com/logos/comedy.png", Comédia
+http://example.com/playlists/comedy.m3u
+
+#EXTINF: 0 tvg-logo = "http://example.com/logos/serials.png", série de TV
+http://example.com/playlists/serials.m3u
+
+#EXTINF: 0 tvg-logo = "http://example.com/logos/trillers.png", Triller
+http://example.com/playlists/trillers.m3u
+
+#EXTINF: 0 tvg-logo = "http://example.com/logos/horror.png", Horror
+http://example.com/playlists/horror.m3u
+
+#EXTINF: 0 tvg-logo = "http://example.com/logos/fantastic.png", Ficção
+http://example.com/playlists/fantastic.m3u
+
+
+

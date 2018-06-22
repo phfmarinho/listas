@@ -1,0 +1,14 @@
+# EXTM3U
+
+#EXTINF: 0 type = "playlist", 2015
+#EXTSIZE: Medium
+http://example.com/playlists/2015.m3u
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/il/r46wb_tnl_250x141.jpg?ts=20140406030608",O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+
+
+
+# EXTM3U size = "medium"
+#EXTINF: 0 tvg-logo = "https://goo.gl/xuv3Uo" type = "video" descrição = "2014", Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
